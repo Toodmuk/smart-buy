@@ -4,7 +4,7 @@ import { Hero, AdditionalFeatures } from './components/Hero';
 import { RevealOnScroll } from './components/Animations';
 import Calculator from './components/Calculator';
 import Glossary from './components/Glossary';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react";
 
 export default function App() {
   return (
