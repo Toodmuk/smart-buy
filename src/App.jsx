@@ -19,6 +19,7 @@ export default function App() {
         <AdditionalFeatures />
       </main>
       <Footer />
+      <Analytics />
     </div>
   );
 }
